@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a124d010a84703fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1/240808.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1/240808.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1/240808.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dba1eed5367fae63",
+  "active": "a124d010a84703fd",
   "lastOpenFiles": [
+    "Untitled 1/240808.md",
+    "README.md",
     "Base",
     "이미지/그림2.png",
     "test.jpg",
-    "Untitled 1/240808.md",
     "이미지",
     "새 폴더",
     "그림2.png",
